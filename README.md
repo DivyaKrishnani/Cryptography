@@ -9,4 +9,7 @@ C++ implementation of Cryptography Programs
 <li>Hill Cipher</li>
 <li>Keyed Cipher</li>
 <li>Keyless Transposition Cipher</li>
+<li>RSA Cryptosystem</li>
+<li>Rabin Cryptosystem</li>
+<li>ElGamal Cryptosystem</li>
 </ol>
